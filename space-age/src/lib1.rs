@@ -1,5 +1,5 @@
 /// user macro to reduce tedious template
-
+/// https://exercism.org/tracks/rust/exercises/space-age/solutions/reshetovdenis
 
 #[derive(Debug)]
 pub struct Duration(f64);
@@ -52,6 +52,7 @@ mod tests {
             )
         }
     }
+
     #[test]
     fn age_on_earth() {
         let seconds = 1_000_000_000;
@@ -60,6 +61,7 @@ mod tests {
         let expected = 31.69;
         assert_in_delta(expected, output);
     }
+
     #[test]
     #[ignore]
     fn age_on_mercury() {
@@ -69,6 +71,7 @@ mod tests {
         let expected = 280.88;
         assert_in_delta(expected, output);
     }
+
     #[test]
     #[ignore]
     fn age_on_venus() {
@@ -78,6 +81,7 @@ mod tests {
         let expected = 9.78;
         assert_in_delta(expected, output);
     }
+
     #[test]
     #[ignore]
     fn age_on_mars() {
@@ -87,6 +91,7 @@ mod tests {
         let expected = 35.88;
         assert_in_delta(expected, output);
     }
+
     #[test]
     #[ignore]
     fn age_on_jupiter() {
@@ -96,6 +101,7 @@ mod tests {
         let expected = 2.41;
         assert_in_delta(expected, output);
     }
+
     #[test]
     #[ignore]
     fn age_on_saturn() {
@@ -105,6 +111,7 @@ mod tests {
         let expected = 2.15;
         assert_in_delta(expected, output);
     }
+
     #[test]
     #[ignore]
     fn age_on_uranus() {
@@ -114,6 +121,7 @@ mod tests {
         let expected = 0.46;
         assert_in_delta(expected, output);
     }
+
     #[test]
     #[ignore]
     fn age_on_neptune() {
