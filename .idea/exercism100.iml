@@ -2,8 +2,25 @@
 <module type="EMPTY_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/anagram/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/clock/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/reverse-string/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/reverse-string/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/space-age/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/space-age/src/lib/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sublist/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/armstrong-numbers/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/luhn/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/minesweeper/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/anagram/target" />
+      <excludeFolder url="file://$MODULE_DIR$/clock/target" />
       <excludeFolder url="file://$MODULE_DIR$/reverse-string/target" />
+      <excludeFolder url="file://$MODULE_DIR$/space-age/src/lib/target" />
+      <excludeFolder url="file://$MODULE_DIR$/space-age/target" />
+      <excludeFolder url="file://$MODULE_DIR$/sublist/target" />
+      <excludeFolder url="file://$MODULE_DIR$/armstrong-numbers/target" />
+      <excludeFolder url="file://$MODULE_DIR$/luhn/target" />
+      <excludeFolder url="file://$MODULE_DIR$/minesweeper/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
