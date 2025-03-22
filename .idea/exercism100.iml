@@ -10,6 +10,8 @@
       <sourceFolder url="file://$MODULE_DIR$/space-age/src/lib/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/sublist/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/armstrong-numbers/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bottle-song/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/difference-of-squares/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/luhn/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/minesweeper/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/anagram/target" />
@@ -19,6 +21,8 @@
       <excludeFolder url="file://$MODULE_DIR$/space-age/target" />
       <excludeFolder url="file://$MODULE_DIR$/sublist/target" />
       <excludeFolder url="file://$MODULE_DIR$/armstrong-numbers/target" />
+      <excludeFolder url="file://$MODULE_DIR$/bottle-song/target" />
+      <excludeFolder url="file://$MODULE_DIR$/difference-of-squares/target" />
       <excludeFolder url="file://$MODULE_DIR$/luhn/target" />
       <excludeFolder url="file://$MODULE_DIR$/minesweeper/target" />
     </content>
