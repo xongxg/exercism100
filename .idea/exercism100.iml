@@ -17,6 +17,9 @@
       <sourceFolder url="file://$MODULE_DIR$/luhn/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/minesweeper/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/nth-prime/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/prime-factors/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/proverb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sum-of-multiples/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/anagram/target" />
       <excludeFolder url="file://$MODULE_DIR$/clock/target" />
       <excludeFolder url="file://$MODULE_DIR$/reverse-string/target" />
@@ -31,6 +34,9 @@
       <excludeFolder url="file://$MODULE_DIR$/luhn/target" />
       <excludeFolder url="file://$MODULE_DIR$/minesweeper/target" />
       <excludeFolder url="file://$MODULE_DIR$/nth-prime/target" />
+      <excludeFolder url="file://$MODULE_DIR$/prime-factors/target" />
+      <excludeFolder url="file://$MODULE_DIR$/proverb/target" />
+      <excludeFolder url="file://$MODULE_DIR$/sum-of-multiples/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
