@@ -19,7 +19,11 @@
       <sourceFolder url="file://$MODULE_DIR$/nth-prime/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/prime-factors/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/proverb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/collatz-conjecture/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/high-scores/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/matching-brackets/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/mikechris/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/series/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/sum-of-multiples/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/anagram/target" />
       <excludeFolder url="file://$MODULE_DIR$/clock/target" />
@@ -37,7 +41,11 @@
       <excludeFolder url="file://$MODULE_DIR$/nth-prime/target" />
       <excludeFolder url="file://$MODULE_DIR$/prime-factors/target" />
       <excludeFolder url="file://$MODULE_DIR$/proverb/target" />
+      <excludeFolder url="file://$MODULE_DIR$/collatz-conjecture/target" />
+      <excludeFolder url="file://$MODULE_DIR$/high-scores/target" />
+      <excludeFolder url="file://$MODULE_DIR$/matching-brackets/target" />
       <excludeFolder url="file://$MODULE_DIR$/mikechris/target" />
+      <excludeFolder url="file://$MODULE_DIR$/series/target" />
       <excludeFolder url="file://$MODULE_DIR$/sum-of-multiples/target" />
     </content>
     <orderEntry type="inheritedJdk" />
