@@ -1,0 +1,2 @@
+iter::adapters::chain::Chain<iter::adapters::take::Take<Chars<'_>>, Filter<SkipWhile<Chars<'_>, {closure@src/lib.rs:7:33: 7:36}>, {closure@src/lib.rs:8:29: 8:32}>>
+std::iter::Chain<std::iter::Take<Chars<'_>>, Filter<SkipWhile<Chars<'_>, {closure@src/lib.rs:7:33: 7:36}>, {closure@src/lib.rs:8:29: 8:32}>>

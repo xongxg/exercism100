@@ -19,6 +19,7 @@
       <sourceFolder url="file://$MODULE_DIR$/nth-prime/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/prime-factors/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/proverb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/acronym/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/collatz-conjecture/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/eliuds-eggs/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/high-scores/src" isTestSource="false" />
@@ -43,6 +44,7 @@
       <excludeFolder url="file://$MODULE_DIR$/nth-prime/target" />
       <excludeFolder url="file://$MODULE_DIR$/prime-factors/target" />
       <excludeFolder url="file://$MODULE_DIR$/proverb/target" />
+      <excludeFolder url="file://$MODULE_DIR$/acronym/target" />
       <excludeFolder url="file://$MODULE_DIR$/collatz-conjecture/target" />
       <excludeFolder url="file://$MODULE_DIR$/eliuds-eggs/target" />
       <excludeFolder url="file://$MODULE_DIR$/high-scores/target" />
