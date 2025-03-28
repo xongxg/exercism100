@@ -20,6 +20,7 @@
       <sourceFolder url="file://$MODULE_DIR$/prime-factors/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/proverb/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/acronym/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/all-your-base/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/collatz-conjecture/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/eliuds-eggs/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/high-scores/src" isTestSource="false" />
@@ -28,6 +29,7 @@
       <sourceFolder url="file://$MODULE_DIR$/mikechris/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/series/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/sum-of-multiples/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/allergies/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/anagram/target" />
       <excludeFolder url="file://$MODULE_DIR$/clock/target" />
       <excludeFolder url="file://$MODULE_DIR$/reverse-string/target" />
@@ -45,6 +47,7 @@
       <excludeFolder url="file://$MODULE_DIR$/prime-factors/target" />
       <excludeFolder url="file://$MODULE_DIR$/proverb/target" />
       <excludeFolder url="file://$MODULE_DIR$/acronym/target" />
+      <excludeFolder url="file://$MODULE_DIR$/all-your-base/target" />
       <excludeFolder url="file://$MODULE_DIR$/collatz-conjecture/target" />
       <excludeFolder url="file://$MODULE_DIR$/eliuds-eggs/target" />
       <excludeFolder url="file://$MODULE_DIR$/high-scores/target" />
@@ -53,6 +56,7 @@
       <excludeFolder url="file://$MODULE_DIR$/mikechris/target" />
       <excludeFolder url="file://$MODULE_DIR$/series/target" />
       <excludeFolder url="file://$MODULE_DIR$/sum-of-multiples/target" />
+      <excludeFolder url="file://$MODULE_DIR$/allergies/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
