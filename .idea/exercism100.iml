@@ -30,6 +30,16 @@
       <sourceFolder url="file://$MODULE_DIR$/series/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/sum-of-multiples/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/allergies/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/alphametics/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/binary-search/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dot-dsl/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/etl/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/grade-school/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/hamming/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/isbn-verifier/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/isogram/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/nucleotide-count/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/paasio/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/anagram/target" />
       <excludeFolder url="file://$MODULE_DIR$/clock/target" />
       <excludeFolder url="file://$MODULE_DIR$/reverse-string/target" />
@@ -57,6 +67,16 @@
       <excludeFolder url="file://$MODULE_DIR$/series/target" />
       <excludeFolder url="file://$MODULE_DIR$/sum-of-multiples/target" />
       <excludeFolder url="file://$MODULE_DIR$/allergies/target" />
+      <excludeFolder url="file://$MODULE_DIR$/alphametics/target" />
+      <excludeFolder url="file://$MODULE_DIR$/binary-search/target" />
+      <excludeFolder url="file://$MODULE_DIR$/dot-dsl/target" />
+      <excludeFolder url="file://$MODULE_DIR$/etl/target" />
+      <excludeFolder url="file://$MODULE_DIR$/grade-school/target" />
+      <excludeFolder url="file://$MODULE_DIR$/hamming/target" />
+      <excludeFolder url="file://$MODULE_DIR$/isbn-verifier/target" />
+      <excludeFolder url="file://$MODULE_DIR$/isogram/target" />
+      <excludeFolder url="file://$MODULE_DIR$/nucleotide-count/target" />
+      <excludeFolder url="file://$MODULE_DIR$/paasio/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
