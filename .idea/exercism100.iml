@@ -44,6 +44,9 @@
       <sourceFolder url="file://$MODULE_DIR$/pangram/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/pascals-triangle/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/perfect-numbers/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/pig-latin/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/queen-attack/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rna-transcription/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/anagram/target" />
       <excludeFolder url="file://$MODULE_DIR$/clock/target" />
       <excludeFolder url="file://$MODULE_DIR$/reverse-string/target" />
@@ -85,6 +88,9 @@
       <excludeFolder url="file://$MODULE_DIR$/pangram/target" />
       <excludeFolder url="file://$MODULE_DIR$/pascals-triangle/target" />
       <excludeFolder url="file://$MODULE_DIR$/perfect-numbers/target" />
+      <excludeFolder url="file://$MODULE_DIR$/pig-latin/target" />
+      <excludeFolder url="file://$MODULE_DIR$/queen-attack/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rna-transcription/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
