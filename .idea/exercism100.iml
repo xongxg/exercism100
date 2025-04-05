@@ -47,6 +47,7 @@
       <sourceFolder url="file://$MODULE_DIR$/pig-latin/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/queen-attack/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rna-transcription/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/run-length-encoding/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/anagram/target" />
       <excludeFolder url="file://$MODULE_DIR$/clock/target" />
       <excludeFolder url="file://$MODULE_DIR$/reverse-string/target" />
@@ -91,6 +92,7 @@
       <excludeFolder url="file://$MODULE_DIR$/pig-latin/target" />
       <excludeFolder url="file://$MODULE_DIR$/queen-attack/target" />
       <excludeFolder url="file://$MODULE_DIR$/rna-transcription/target" />
+      <excludeFolder url="file://$MODULE_DIR$/run-length-encoding/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
